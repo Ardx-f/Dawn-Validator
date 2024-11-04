@@ -21,6 +21,8 @@ python Run.py
 
 Extension: https://chromewebstore.google.com/detail/dawn-validator-chrome-ext/fpdkjdnhkakefebpekbdhillbhonfjjp?hl=en
 
+My Referral Code : gtsvw40f
+
 How To Get Token ? (F12) / DevTools -> Network -> Search getpoint -> Check Authorization Section 
 
 # Fyi
