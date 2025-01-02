@@ -1,5 +1,0 @@
-example@gmail.com|example token
-example@gmail.com|example token
-example@gmail.com|example token
-example@gmail.com|example token
-example@gmail.com|example token
